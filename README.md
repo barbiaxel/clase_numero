@@ -1,0 +1,2 @@
+# clase_numero
+Realiza una clase numero, que almacene un número entero y tenga las siguientes características: • Constructor por defecto que inicializa a 0 el número interno. • Constructor que inicializa el número interno. • Método anyade que permite sumarle un número al valor interno. • Método resta que resta un número al valor interno. • Método getValor que devuelve el valor interno. • Método getDoble que devuelve el doble del valor interno. • Método getTriple que devuelve el triple del valor interno. • Método setNumero que inicializa de nuevo el valor interno.
